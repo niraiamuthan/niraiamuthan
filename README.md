@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GOWRI SANKAR R</h1>
 <h3 align="center">A passionate frontend developer from tamilnadu</h3>
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently **frontend development**
 
 - 📫 How to reach me **er.sankarmech@gmail.com**
 
